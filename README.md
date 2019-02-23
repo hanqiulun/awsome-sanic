@@ -1,1 +1,1 @@
-# awsome-sanic
+# Awsome-Sanic
