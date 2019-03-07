@@ -16,7 +16,7 @@
 - [Secure](https://github.com/cakinney/secure): Secure 🔒 is a lightweight package that adds optional security headers and cookie attributes for Python web frameworks.
 - [Sessions](https://github.com/subyraman/sanic_session): Support for sessions. Allows using redis, memcache or an in memory store.
 - [CORS](https://github.com/ashleysommer/sanic-cors): A port of flask-cors.
-- [Sanic-JWT-Extended](https://github.com/devArtoria/Sanic-JWT-Extended): Provides extended JWT support for 
+- [Sanic-JWT-Extended](https://github.com/devArtoria/Sanic-JWT-Extended): Provides extended JWT support for  `Updated on Dec 5, 2018`
 - [UserAgent](https://github.com/lixxu/sanic-useragent): Add `user_agent` to request
 - [Limiter](https://github.com/bohea/sanic-limiter): Rate limiting for sanic.
 - [sanic-oauth](https://gitlab.com/SirEdvin/sanic-oauth): OAuth Library with many provider and OAuth1/OAuth2 support.
