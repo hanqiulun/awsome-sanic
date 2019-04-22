@@ -2,7 +2,7 @@
 :gift_heart: :gift_heart:  :gift_heart:  :gift_heart: 
 
 
-### The most complete sanic database
+### The most complete sanic database.
 
 
 ## Extension and Plugin Development
